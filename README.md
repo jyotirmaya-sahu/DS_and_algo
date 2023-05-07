@@ -1,7 +1,7 @@
 # Algorithims
 1. [Union Find](#union-find)
 
-# Union Find {#union-find}
+# Union Find
 ## Problem Statement
 given set of connected points/object, we have to decide whether two points are connected or not.
 
