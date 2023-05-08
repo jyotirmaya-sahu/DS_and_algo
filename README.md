@@ -70,3 +70,11 @@ the value of each index, contains its connected object.
 
 ## weighted Quick Union with path compression
 - make the node to point the root, which will faltten the tree.
+
+# Stack and Queue
+- stack - FIFO
+- queue - LIFO
+
+## stack
+- using linkedlist
+- using Array
